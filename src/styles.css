@@ -9,13 +9,12 @@ html {
 }
 
 body {
-
   background-image: url('./images/bg-pattern.png');
 }
-.load-button{
+.load-button {
   display: block;
   margin: 0 auto;
-  background-color: teal
+  background-color: teal;
 }
 
 .search-form input {
@@ -35,7 +34,6 @@ body {
 }
 
 .photo-card {
-  
   background-color: white;
   padding: 5px;
   width: 250px;
