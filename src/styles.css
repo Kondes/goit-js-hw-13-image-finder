@@ -16,7 +16,9 @@ body {
   margin: 0 auto;
   background-color: teal;
 }
-
+.load-button.disabled{
+  display: none;
+}
 .search-form input {
   display: block;
   margin: 0 auto;
